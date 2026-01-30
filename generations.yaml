@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Subaru_Baja"
+
+generations:
+  - name: "First Generation"
+    start_year: 2002
+    end_year: 2006
+    description: "The Subaru Baja is an all-wheel-drive, four-passenger coupé utility manufactured from 2002 to 2006. It combines the handling and passenger carrying characteristics of a traditional passenger car with the open-bed versatility and load capacity of a small pickup truck. The unibody design is based on the Subaru Legacy/Outback wagon platform. Production began at the Subaru of Indiana Automotive factory in Lafayette, Indiana on July 18, 2002 as a 2003 model. The name 'Baja' derives from the Baja California peninsula, home to the Baja 1000 off-road race. Model years include 2003 (launch), 2004 (turbocharged model introduction), 2005 (ride height updates), and 2006 (final model year with enhanced optional packages). Production ended in April 2006, but dealers sold remaining 2006 inventory through February 2008."
